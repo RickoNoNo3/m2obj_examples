@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+*.iml
+
+*.exe
+*.run
+
+.*.swp
+_.swp
+
+config.json
